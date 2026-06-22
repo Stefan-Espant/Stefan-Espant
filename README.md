@@ -2,9 +2,9 @@
 
 ### Frontend Developer @ Pepperflow • Designer • Founder of Espant Design
 
-I design and build digital experiences that combine thoughtful design, accessibility and modern web technologies.
+I design and develop digital experiences where aesthetics, usability and technology come together seamlessly.
 
-With a background in graphic design and frontend development, I enjoy bridging the gap between design and code. My goal is to create products that not only look great, but also perform well and provide an excellent user experience.
+With a background spanning both graphic design and frontend development, I bring a multidisciplinary perspective to digital product creation. My focus lies in crafting intuitive, accessible and high-performing experiences that balance user needs, business objectives and technical excellence.
 
 ---
 
