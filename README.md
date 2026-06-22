@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### Frontend Developer • Designer • Founder of Espant Design
+### Frontend Developer @ Pepperflow • Designer • Founder of Espant Design
 
 I build modern, accessible and user-friendly digital experiences.
 
@@ -20,23 +20,17 @@ With a background in graphic design and frontend development, I enjoy bridging t
 
 ## 🛠 Tech Stack
 
-### Frontend
+### 💻 Frontend Development
 
-![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge\&logo=nuxtdotjs)
-![Vue.js](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge\&logo=vuedotjs)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript)
+[![Development Skills](https://skillicons.dev/icons?i=nuxt,vue,ts,js,html,css,tailwind,nodejs,git,github,vscode)](https://skillicons.dev)
 
-### Styling
+Building modern, accessible and performant web applications.
 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3)
+### 🎨 Design & Creative
 
-### Tools
+[![Design Skills](https://skillicons.dev/icons?i=figma,ps,ai,id,ae,pr)](https://skillicons.dev)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code)
+Creating visual identities, interfaces and digital experiences.
 
 ---
 
@@ -75,4 +69,4 @@ Here are some of the projects I'm most proud of:
 
 ---
 
-> "Great digital experiences happen where design and development meet."
+> Great digital experiences happen where design and development meet.
