@@ -12,7 +12,7 @@ With a background spanning both graphic design and frontend development, I bring
 
 * 💻 Frontend Developer at **Pepperflow**
 * 🎨 Designer and Founder of **Espant Design**
-* 🌱 Passionate about web standards, accessibility and performance
+* 🌱 Passionate about web standards, accessibility, performance and digital sovereignty 🇪🇺
 * 🛠 Building with modern JavaScript frameworks and design systems
 * 🇳🇱 Based in the Netherlands
 
