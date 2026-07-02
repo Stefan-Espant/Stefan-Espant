@@ -38,8 +38,6 @@ My design background helps me create interfaces that are both visually appealing
 
 ## 📈 GitHub Stats
 
-![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stefan-Espant\&show_icons=true\&hide_border=true\&rank_icon=github)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Stefan-Espant\&layout=compact\&hide_border=true)
 
 ---
