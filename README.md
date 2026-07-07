@@ -36,12 +36,6 @@ My design background helps me create interfaces that are both visually appealing
 
 ---
 
-## 📈 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Stefan-Espant\&layout=compact\&hide_border=true)
-
----
-
 ## 🎯 Current Focus
 
 * Building high-quality web experiences
