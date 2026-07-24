@@ -28,7 +28,7 @@ I primarily work with Nuxt, Vue and TypeScript to build fast, maintainable and u
 
 ## 🎨 Design & Creative
 
-[![Design Skills](https://skillicons.dev/icons?i=figma,ps,ai,i,ae,pr)](https://skillicons.dev)
+[![Design Skills](https://skillicons.dev/icons?i=figma,ps,ai,indesign,ae,pr)](https://skillicons.dev)
 
 My design background helps me create interfaces that are both visually appealing and functional.
 
