@@ -30,6 +30,8 @@ I primarily work with Nuxt, Vue and TypeScript to build fast, maintainable and u
 
 [![Design Skills](https://skills.syvixor.com/api/icons?i=figma,ps,ai,indesign,ae,pr)](https://skillicons.dev)
 
+[![Design Skills](https://skills.syvixor.com/api/icons?i=figma,ps,ai,indesign,ae,pr)](https://skillicons.dev)
+
 My design background helps me create interfaces that are both visually appealing and functional.
 
 ---
