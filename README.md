@@ -14,7 +14,7 @@ With a background spanning both graphic design and frontend development, I bring
 * 🎨 Designer and Founder of **Espant Design**
 * 🌱 Passionate about web standards, accessibility, performance and digital sovereignty 🇪🇺
 * 🛠 Building with modern JavaScript frameworks and design systems
-* 👨‍💻 Creator of **WaldJS** and **Centaur CMS**
+* 👨‍💻 Creator of **WaldJS**, **Centaur CMS** and **Steva's Kookboek**
 * 🇳🇱 Based in the Netherlands
 
 ---
